@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://digital0ak.github.io/website/sitemap.xml
